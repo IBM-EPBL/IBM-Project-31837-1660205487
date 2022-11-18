@@ -4,7 +4,9 @@
 <p align="center" >Web Application for reading News</p>
 
 Team Leader
-*R.Vijayaragavan
+<br>
+R.Vijayaragavan
+</br>
 
 Team Members
 *M.Dinesh Kumar
