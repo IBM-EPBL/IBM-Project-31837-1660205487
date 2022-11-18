@@ -4,12 +4,12 @@
 <p align="center" >Web Application for reading News</p>
 
 Team Leader
-R.Vijayaragavan
+*R.Vijayaragavan
 
 Team Members
-M.Dinesh Kumar
-M.Sanjay
-S.Siva
+*M.Dinesh Kumar
+*M.Sanjay
+*S.Siva
 
 ## Ideation Phase
 ## Project Phases
