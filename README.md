@@ -3,6 +3,14 @@
 <h1 align="center" style="margin-top: 0px;">News Tracker Application</h1>
 <p align="center" >Web Application for reading News</p>
 
+Team Leader
+R.Vijayaragavan
+
+Team Members
+M.Dinesh Kumar
+M.Sanjay
+S.Siva
+
 ## Ideation Phase
 ## Project Phases
 
