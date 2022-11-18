@@ -9,9 +9,9 @@ R.Vijayaragavan
 </br>
 
 Team Members
-<br>M.Dinesh Kumar</br>
-<br>M.Sanjay</br>
-<br>S.Siva</br>
+<br>M.Dinesh Kumar
+M.Sanjay
+S.Siva</br>
 
 ## Ideation Phase
 ## Project Phases
