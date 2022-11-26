@@ -25,5 +25,5 @@ S.Siva</br>
 * [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/tree/main/Project%20design%20phase/Ideation%20Phase)
 * [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/tree/main/Project%20Development%20Phase/Sprint-1)
 * [Project Report](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/blob/main/NTA_original_report.pdf)
-* [Demo Video Link](https://drive.google.com/file/d/1J04XUvhs6eJdnqttBihZCGq-bG1EM66Q/view?usp=sharing)
+* [Demo Video](https://drive.google.com/file/d/1J04XUvhs6eJdnqttBihZCGq-bG1EM66Q/view?usp=sharing)
 
